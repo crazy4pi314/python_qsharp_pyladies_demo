@@ -40,7 +40,7 @@ namespace PyLadies.Demo {
         }
     }
 
-        /// # Summary
+    /// # Summary
     /// Generates a random value from {0,1} by measuring a qubit in 
     /// an equal superposition, and show some diagnostics of the 
     /// target machine.
@@ -66,6 +66,15 @@ namespace PyLadies.Demo {
         }
     }
 
+    /// # Summary
+    /// Generates a pair of entangled qubits and then measures them.
+    ///
+    /// # Description
+    /// Given two qubits initially in the |0⟩ state, applies the H operation
+    /// to qubit 1 such that it has the state (1/√2) |0⟩ + (1/√2) |1⟩.
+    /// Then qubit 1 is used as the control for a CNOT operation on qubit 2.
+    /// Measurement of this state returns a (0,0) Result with probability 0.5
+    /// and a (1,1) Result with probability 0.5. 
     operation EntangleQubits(verbose : Bool) : (Result, Result) {
         // Preparing two qubits
         using ((qubit1, qubit2) = (Qubit(), Qubit())) {
