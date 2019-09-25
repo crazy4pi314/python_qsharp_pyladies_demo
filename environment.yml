@@ -1,5 +1,6 @@
 name: python_qsharp_demo
-channels: quantum_engineering
+channels: 
+- quantum_engineering
 dependencies:
 - python=3.6
 - numpy
