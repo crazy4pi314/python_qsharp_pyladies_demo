@@ -52,13 +52,14 @@ namespace PyLadies.Demo {
     }
 
     operation EntangleQubits(verbose : Bool) : (Result, Result) {
+        // Preparing two qubits
         using ((qubit1, qubit2) = (Qubit(), Qubit())) {
 
             if (verbose) {
                 Message("State of inital two qubits:");
                 DumpRegister((), [qubit1, qubit2]);
             }
-
+            // The operations on the qubits needed to entangle them
             H(qubit1);
             CNOT(qubit1, qubit2);
 
@@ -67,7 +68,7 @@ namespace PyLadies.Demo {
                 Message("After entangling the two qubits:");
                 DumpRegister((), [qubit1, qubit2]);
             }
-            
+            // Finally, measure and reset the qubits
             return (MResetZ(qubit1), MResetZ(qubit2));
         }
     }

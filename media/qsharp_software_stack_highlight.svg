@@ -26,7 +26,7 @@
    style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3"><metadata
    id="metadata138"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#fffeff"
    bordercolor="#666666"
    borderopacity="1"
@@ -40,7 +40,7 @@
    id="namedview136"
    showgrid="false"
    inkscape:zoom="3.4690456"
-   inkscape:cx="242.39083"
+   inkscape:cx="157.35303"
    inkscape:cy="150.78349"
    inkscape:window-x="-16"
    inkscape:window-y="-16"
@@ -373,7 +373,7 @@
    height="32.0625"
    class="st1"
    id="rect120-1"
-   style="fill:#fff352;fill-opacity:1;stroke:#090000;stroke-width:1.63275266;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1" /><text
+   style="fill:#fff352;fill-opacity:1;stroke:#090000;stroke-width:1.63300268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1" /><text
    x="354.40298"
    y="79.118454"
    class="st2"
@@ -381,6 +381,7 @@
    id="text40"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00001621px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"><v:paragraph
    v:horizAlign="1" /><v:tabList />Simulator Target Machine</text>
+
 
 
 	<rect
@@ -397,6 +398,7 @@
    v:langID="1033"
    id="text22"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00001621px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"><v:paragraph /><v:tabList />Q# Program</text>
+
 
 
 
@@ -453,6 +455,7 @@
 
 
 
+
 <rect
    style="fill:#af7bd2;fill-opacity:1;stroke:#000000;stroke-width:1.63275862;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
    id="rect80"
@@ -492,6 +495,7 @@
 
 
 
+
 <path
    d="m 150.793,50.308699 h 13.5 v 26.27 h 9.75"
    class="st5"
@@ -514,7 +518,7 @@
    height="32.0625"
    class="st1"
    id="rect120"
-   style="fill:#6796e6;fill-opacity:1;stroke:none;stroke-width:0.23999999;stroke-linecap:round;stroke-linejoin:round" /><text
+   style="fill:#6796e6;fill-opacity:1;stroke:#090000;stroke-width:1.63300268;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1" /><text
    x="366.11685"
    y="112.41142"
    class="st2"
@@ -532,6 +536,7 @@
 
 
 
+
 <g
    id="g2057"
    transform="translate(-18.120001,-26.966108)"><text
@@ -543,6 +548,7 @@
    x="201.981"><v:paragraph
    v:horizAlign="1" /><v:tabList />Host Program</text>
 
+
 <text
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00001717px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:1"
    id="text31-6"
@@ -552,6 +558,7 @@
    x="202.21506">❤ Python ❤<v:paragraph
    v:horizAlign="1" /><v:tabList /></text>
 
+
 </g><rect
    x="343.32397"
    y="20.023455"
@@ -559,10 +566,11 @@
    height="32.0625"
    class="st1"
    id="rect120-3"
-   style="fill:#6796e6;fill-opacity:1;stroke:none;stroke-width:0.24000001;stroke-linecap:round;stroke-linejoin:round" /><g
+   style="fill:#6796e6;fill-opacity:1;stroke:#090000;stroke-width:1.63300268;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:3;stroke-dasharray:none" /><g
    id="g2682"
-   transform="translate(-98.14495,-148.1825)"><text
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00001717px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1"
+   transform="translate(-98.14495,-148.1825)"
+   style="stroke-width:1.63275268;stroke-miterlimit:3;stroke-dasharray:none"><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00001717px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.63275268;stroke-miterlimit:3;stroke-dasharray:none"
    id="text124-2"
    v:langID="1033"
    class="st2"
@@ -570,24 +578,26 @@
    x="472.09628"><v:paragraph
      v:horizAlign="1" /><v:tabList /><tspan
      id="tspan2634"
-     style="text-align:start;text-anchor:start">Quantum Device</tspan><v:lf /><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00001717px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:1"
+     style="text-align:start;text-anchor:start;stroke-width:1.63275268;stroke-miterlimit:3;stroke-dasharray:none">Quantum Device</tspan><v:lf /><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00001717px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:1.63275268;stroke-miterlimit:3;stroke-dasharray:none"
      id="tspan122-7"
      class="st4"
      x="493.25748" /></text>
 
+
 <text
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00001717px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00001717px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:1.63275268;stroke-miterlimit:3;stroke-dasharray:none"
    id="text124-2-9"
    v:langID="1033"
    class="st2"
    y="193.90451"
    x="454.08206"><v:paragraph
      v:horizAlign="1" /><v:tabList /><v:lf /><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00001717px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.00001717px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:1.63275268;stroke-miterlimit:3;stroke-dasharray:none"
      id="tspan122-7-6"
      class="st4"
      x="475.24326">Target Machine</tspan></text>
+
 
 </g><path
    d="m 270.228,76.594111 h 71.54"
