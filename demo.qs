@@ -31,22 +31,37 @@ namespace PyLadies.Demo {
     /// to that qubit such that it has the state (1/√2) |0⟩ + (1/√2) |1⟩.
     /// Measurement of this state returns a One Result with probability 0.5
     /// and a Zero Result with probability 0.5. 
-    operation Qrng(verbose : Bool) : Result {
+    operation Qrng() : Result {
         using (qubit = Qubit()) {
-            
-            if(verbose){
-                Message("Here is what the simulator uses to record a qubit in the 0 state:");
-                DumpRegister((), [qubit]);
-                Message(" ");
-            }
 
             H(qubit);
 
-            if(verbose){
-                Message("After using H(qubit) to create a superposition state:");
-                DumpRegister((), [qubit]);
-            }    
+            return MResetZ(qubit);
+        }
+    }
 
+        /// # Summary
+    /// Generates a random value from {0,1} by measuring a qubit in 
+    /// an equal superposition, and show some diagnostics of the 
+    /// target machine.
+    ///
+    /// # Description
+    /// Given a qubit initially in the |0⟩ state, applies the H operation
+    /// to that qubit such that it has the state (1/√2) |0⟩ + (1/√2) |1⟩.
+    /// Measurement of this state returns a One Result with probability 0.5
+    /// and a Zero Result with probability 0.5. 
+    operation QrngWithDiagnostics() : Result {
+        using (qubit = Qubit()) {
+            
+            Message("Here is what the simulator uses to record a qubit in the 0 state:");
+            DumpRegister((), [qubit]);
+            Message(" ");
+
+            H(qubit);
+
+            Message("After using H(qubit) to create a superposition state:");
+            DumpRegister((), [qubit]);
+ 
             return MResetZ(qubit);
         }
     }
