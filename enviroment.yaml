@@ -1,0 +1,9 @@
+name: python_qsharp_demo
+dependencies:
+- python=3.6
+- numpy
+- pip
+- pip:
+  - ipykernel
+  - qsharp
+  - RISE
